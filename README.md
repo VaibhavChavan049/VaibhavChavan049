@@ -67,11 +67,11 @@
 
 ### 📈 Analytics & Automation  
 <p align="left">
-  <img src="https://img.shields.io/badge/Statistical%20Modeling-6A5ACD?style=for-the-badge"/> **Statistical Modeling**
-  &nbsp; <img src="https://img.shields.io/badge/ETL%20Pipelines-4682B4?style=for-the-badge"/> **ETL Pipelines**
-  &nbsp; <img src="https://img.shields.io/badge/Data%20Preprocessing-20B2AA?style=for-the-badge"/> **Data Preprocessing**
-  &nbsp; <img src="https://img.shields.io/badge/Automation-FF6347?style=for-the-badge"/> **Automation**
-  &nbsp; <img src="https://img.shields.io/badge/A%2FB%20Testing-FFD700?style=for-the-badge"/> **A/B Testing**
+  <img src="https://img.shields.io/badge/Statistical%20Modeling-6A5ACD?style=for-the-badge"/> 
+  &nbsp; <img src="https://img.shields.io/badge/ETL%20Pipelines-4682B4?style=for-the-badge"/> 
+  &nbsp; <img src="https://img.shields.io/badge/Data%20Preprocessing-20B2AA?style=for-the-badge"/> 
+  &nbsp; <img src="https://img.shields.io/badge/Automation-FF6347?style=for-the-badge"/> 
+  &nbsp; <img src="https://img.shields.io/badge/A%2FB%20Testing-FFD700?style=for-the-badge"/> 
 </p>
 
 ---
